@@ -1,0 +1,32 @@
+#inp{
+     height: 80px;
+}
+.button{
+    height: 75px;
+    width: 68px;
+    margin: 2px;
+}
+.calculator{
+width: 320px;
+height: 400px;
+margin: auto;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    background-color: black;
+}
+.rectangle{
+    width: 280px;
+    height: 200px;
+    background-color: grey;
+}
+.color{
+    color: red;
+}
